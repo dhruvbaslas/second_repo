@@ -38,3 +38,5 @@ int main() {
     closegraph();
     return 0;
 }
+
+//Please add comment and description for each line of code :P
